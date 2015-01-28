@@ -3,16 +3,17 @@
 Eagle ulp and cam file for Roland Modela MDX-15/20
 
 ## Files
-- fablab-mill-n-drill.ulp
-creating a toolpath for milling and drilling<br>
-change scall for Eagle 7.1.<br>
+- fablab-mill-n-drill.ulp <br>
+creating a toolpath for milling and drilling. <br>
+change scall for Eagle 7.1. <br>
+see Reference <br>
 
-- fablab-mill-n-drill.cam
-creating files for driving the Roland Modela milling machine.<br>
-same as original.<br>
+- fablab-mill-n-drill.cam <br>
+creating files for driving the Roland Modela milling machine. <br>
+same as original. <br>
 
-- eagle.def
-for Eagle 7.1<br>
+- eagle.def <br>
+for Eagle 7.1 <br>
 
 ## Original
 [Making Printed Circuit Boards with the Fab Lab](http://fablab.marcboon.com/pcb/)
